@@ -17,8 +17,6 @@
 #### User dataset help to understand if certain customers were predisposed to positive or negative reviews. 
 
 ## Conclusion
-#### Top category by review
-#### Top 20 features that go into a high review
 #### GoogleCloud AutoML results: 
 #### - AUC PR: 36.3% 
 #### - AUC ROC: 81.9%
